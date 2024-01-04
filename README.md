@@ -27,7 +27,7 @@ It only includes the Sun, Mercury, Venus, Earth, Jupiter, and Saturn because tho
 I think the animations turned out well, but I had to approximate the orbits as perfect circles because I ran out of time. I'd love to make the orbits ellipses and include orbital parameters (like inclination) to make it more accurate.
 
 ## Purpose of the Project
-I was making a YouTube video about the history of Earth-centered models (geocentrism) and why calling it &quote;incorrect&quote; is a bit too harsh.
+I was making a YouTube video about the history of Earth-centered models (geocentrism) and why calling it &quot;incorrect&quot; is a bit too harsh.
 
 <a href="https://youtu.be/yC74lhJX9Ck">
     <b>How can Planets be in Retrograde? Geocentrism Explained</b></br>
